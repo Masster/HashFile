@@ -21,7 +21,7 @@ import java.util.zip.ZipInputStream;
 
 /**
  *
- * @author Masster
+ * @author Antonenko Andrey
  */
 public class Savetozip {
 

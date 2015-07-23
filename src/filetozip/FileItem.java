@@ -7,7 +7,7 @@ package filetozip;
 
 /**
  *
- * @author Masster
+ * @author Antonenko Andrey
  */
 public class FileItem {
 

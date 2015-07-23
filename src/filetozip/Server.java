@@ -26,7 +26,7 @@ import static ziptofile.Loadfromzip.write;
 
 /**
  *
- * @author Masster
+ * @author Antonenko Andrey
  */
 public class Server extends javax.swing.JFrame {
 

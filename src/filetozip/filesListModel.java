@@ -13,7 +13,7 @@ import javax.swing.event.ListSelectionListener;
 
 /**
  *
- * @author Masster
+ * @author Antonenko Andrey
  */
 public class filesListModel extends DefaultListModel<FileItem>{
     
