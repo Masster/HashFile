@@ -13,7 +13,7 @@ public class FileItem {
 
     private String name;
     private String path;
-    private int i;
+    private int ind;
 
     public FileItem(String name, String path) {
         this.name = name;
